@@ -6,10 +6,12 @@ Participant  : Chamalsha Liyanage
 School       : Kingswood College
 
 [ LINKS ]
+
 Live Hosted URL : https://chm-liyanage2.github.io/WebWave_Chamalsha-Liyanage_Kingswood-college/
 GitHub Repo     : https://github.com/chm-liyanage2/WebWave_Chamalsha-Liyanage_Kingswood-college/
 
 [ PROJECT OVERVIEW ]
+
 VECTRA-86 is an interactive 1986 industrial vector cyberdeck simulator. 
 It was built entirely from scratch using 100% pure HTML5, CSS3, and Vanilla JavaScript. 
 Zero external libraries, game engines, or frameworks were used.
